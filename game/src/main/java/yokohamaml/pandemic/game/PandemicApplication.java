@@ -1,4 +1,4 @@
-package yokohamaml.pandemic;
+package yokohamaml.pandemic.game;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
